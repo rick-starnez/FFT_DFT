@@ -102,7 +102,7 @@ Las versiones recomendadas están en el archivo requirements.txt.
 
 ## Ejecución
 
-    python dft_vs_fft.py
+    python DFT_FFT.py
 
 Se abrirá una ventana con las dos columnas del simulador.
 
